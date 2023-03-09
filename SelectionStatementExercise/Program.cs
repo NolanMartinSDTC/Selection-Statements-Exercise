@@ -11,11 +11,11 @@
 
             if (favNumber < userInput)
             {
-                Console.WriteLine("too low");
+                Console.WriteLine("too high");
             }
             else if (favNumber > userInput)
             {
-                Console.WriteLine("too high");
+                Console.WriteLine("too low");
             }
             else
             {
